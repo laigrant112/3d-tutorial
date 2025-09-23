@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/levels/NewMap.umap",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/levels/MainMap.umap",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_Weapon45.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BPI_Interactable.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/370304__morganpurkis__single-gunshot-2.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/653032__bbbbilly__pickup_ammo.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/674569__sertonin__browning-hi-power-handgun-being-reloaded-while-empty.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_ShootingRangeGameState.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_AmmoPickupBase.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_AmmoPickup45.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_AmmoPickup556.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP+StartButton.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_TargetBase.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_WeaponBase.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_WeaponAR15.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/E_AmmoTypes.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/IA_Interact.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/IA_Reload.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_StartButton.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/WBP_MainUI.uasset"
+			]
+		}
+	]
+}
