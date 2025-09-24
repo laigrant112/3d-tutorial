@@ -30,6 +30,8 @@
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/FirstPerson/Input/IMC_Default.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/FirstPerson/Input/IMC_Weapons.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/ammopickup.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/reload.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP+StartButton.uasset"
 			]
 		}
