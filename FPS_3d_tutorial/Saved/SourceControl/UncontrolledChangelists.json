@@ -10,8 +10,6 @@
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_Weapon45.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BPI_Interactable.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/370304__morganpurkis__single-gunshot-2.uasset",
-				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/653032__bbbbilly__pickup_ammo.uasset",
-				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/674569__sertonin__browning-hi-power-handgun-being-reloaded-while-empty.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_ShootingRangeGameState.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_AmmoPickupBase.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_AmmoPickup45.uasset",
@@ -37,6 +35,12 @@
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/AssetsvilleTown/Materials/MI_glossyRed.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/AssetsvilleTown/Materials/MasterMaterials/M_BaseColor.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/AssetsvilleTown/Maps/Demonstration.umap",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_TargetBase_Child.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_TargetBase_Child_Right.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_TargetBase_Child_Left.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP_TargetBase_Child_Left1.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/653032__bbbbilly__pickup_ammo.uasset",
+				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/audio/674569__sertonin__browning-hi-power-handgun-being-reloaded-while-empty.uasset",
 				"/Users/laila/Desktop/3d-tutorial/FPS_3d_tutorial/Content/blueprints/BP+StartButton.uasset"
 			]
 		}
